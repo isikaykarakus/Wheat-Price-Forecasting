@@ -116,7 +116,7 @@ The following R libraries were used in this project:
 
 ## Acknowledgements
 
-This project was conducted under the supervision of Prof. Mariangela Guidolin, with contributions from Karakus Isikay and Mahfouz Auriane.
+This project was conducted under the supervision of Prof. Mariangela Guidolin for the Business, Economic and Financial Data course at the University of Padova, with contributions from Karakus Isikay and Mahfouz Auriane.
 
 ## License
 
