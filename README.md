@@ -12,7 +12,9 @@ This repository contains the code, data, and documentation for the project **Whe
 6. [Model Comparison and Forecasting](#model-comparison-and-forecasting)
 7. [Results and Conclusions](#results-and-conclusions)
 8. [Future Work](#future-work)
-9. [Acknowledgements](#acknowledgements)
+9. [Libraries Used](#libraries-used)
+10. [Acknowledgements](#acknowledgements)
+11. [License](#license)
 
 ## Introduction
 
@@ -90,12 +92,32 @@ Future developments could include:
 - Developing more advanced models like regression trees.
 - Including socio-economic factors, such as poverty levels, to assess potential food crises.
 
+## Libraries Used
+
+The following R libraries were used in this project:
+
+- `readr` - For reading and writing data.
+- `ggplot2` - For data visualization.
+- `readxl` - For reading Excel files.
+- `lmtest` - For diagnostic testing in linear regression models.
+- `forecast` - For time series forecasting.
+- `DIMORA` - For modeling and forecasting.
+- `fpp2` - For data and functions related to forecasting principles.
+- `dplyr` - For data manipulation.
+- `scales` - For graphical scales.
+- `bit64` - For handling 64-bit integers.
+- `gbm` - For generalized boosted regression modeling.
+- `tidyr` - For data tidying.
+- `lubridate` - For working with dates and times.
+- `reshape2` - For reshaping data.
+- `corrplot` - For visualizing correlation matrices.
+- `ggcorrplot` - For enhanced correlation plots.
+- `caret` - For training and plotting classification and regression models.
+
 ## Acknowledgements
 
-This project was conducted under the supervision of Prof. Mariangela Guidolin, with contributions from Isikay Karakus and Auriane Mahfouz.
+This project was conducted under the supervision of Prof. Mariangela Guidolin, with contributions from Karakus Isikay and Mahfouz Auriane.
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-
