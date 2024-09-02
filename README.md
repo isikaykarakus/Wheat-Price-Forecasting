@@ -120,4 +120,4 @@ This project was conducted under the supervision of Prof. Mariangela Guidolin fo
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
